@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<inbox>
+    <Student idStudent="1">
+        <nume>Roman Ionut</nume>
+        <grupa>222</grupa>
+        <mail>riir3478@scs.ubbcluj.ro</mail>
+        <profesor>Plesu Andrei</profesor>
+    </Student>
+    <Student idStudent="2">
+        <nume>Gorea Andra</nume>
+        <grupa>921</grupa>
+        <mail>gaie1234@scs.ubbcluj.ro</mail>
+        <profesor>Lovin Andrei</profesor>
+    </Student>
+    <Student idStudent="4">
+        <nume>grebla</nume>
+        <grupa>933</grupa>
+        <mail>riir3478@scs.ubbcluj.ro</mail>
+        <profesor> Plesu Andrei</profesor>
+    </Student>
+    <Student idStudent="5">
+        <nume>sstefan suleiman</nume>
+        <grupa>935</grupa>
+        <mail>ssie2323@cs.ubbcluj.ro</mail>
+        <profesor>aladin suleiman</profesor>
+    </Student>
+    <Student idStudent="577">
+        <nume>sstefan suleiman</nume>
+        <grupa>935</grupa>
+        <mail>ssie2323@cs.ubbcluj.ro</mail>
+        <profesor>aladin suleiman</profesor>
+    </Student>
+    <Student idStudent="9">
+        <nume>alin suleiman</nume>
+        <grupa>935</grupa>
+        <mail>asie2367@scs.ubbcluj.ro</mail>
+        <profesor>Alahambra Mango</profesor>
+    </Student>
+</inbox>
